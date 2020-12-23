@@ -1,2 +1,2 @@
-# tks
-🔥 Website for The Kaen Society.
+# 🔥 The Kaen Society
+A global organisation. Ask no further questions.
